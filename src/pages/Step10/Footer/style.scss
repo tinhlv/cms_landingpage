@@ -1,0 +1,20 @@
+footer.footer {
+    background-color: #eeeeee;
+    padding-top: 40px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px;
+    .nav {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .info {
+        font-size: 11px;
+        font-weight: 400;
+        text-align-last: center;
+    }
+    .sign {
+        margin-top: 30px;
+        font-weight: 500;
+        font-size: 11px;
+    }
+}

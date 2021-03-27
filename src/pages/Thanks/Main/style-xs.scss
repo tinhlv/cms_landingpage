@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+  .title-has-line {
+    font-size: 15px;
+    span {
+      padding: 0 30px;
+      &::before {
+        width: 60px;
+        left: -40px;
+      }
+      &::after {
+        width: 60px;
+        right: -40px;
+      }
+    }
+  }
+}
